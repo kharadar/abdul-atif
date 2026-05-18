@@ -73,9 +73,9 @@ Single-page PHP application for managing and tracking budget allocations using A
 
 ## 📫 Contact Me
 
-- 📧 Email: your-email@example.com
-- 🌐 Portfolio: your-portfolio-link
-- 💼 LinkedIn: your-linkedin-link
+- 📧 Email: cbimax1@gmail.com
+- 🌐 Portfolio: https://github.com/kharadar/abdul-atif
+
 
 ---
 
